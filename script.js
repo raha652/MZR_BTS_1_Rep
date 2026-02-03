@@ -1,5 +1,5 @@
 // 🔗 لینک اسکریپت Google Sheet (با doGet)
-const SHEET_URL = "https://script.google.com/macros/s/AKfycbzfA3W3jraOYQoEL4eM0n9aLEEeRptvtUkWaP68kQj8eqHTg6gh8j6aNR8VLWVZkIrQ/exec";
+const SHEET_URL = "https://script.google.com/macros/s/AKfycbyWJi0w8iC1i390bjKafXhO8fop4GehoQRC9Z_XJ5UF8Y02Hdkz7ZZfk5E4S7pMo1hn/exec";
 
 // 🔗 اطلاعات تلگرام
 const BOT_TOKEN = "8334874834:AAGZ5KX4DFNjgm0RD-zo56IdwNq6W0wAmr2Q";
@@ -166,6 +166,7 @@ function resetProgressUI() {
   document.getElementById("uploadProgress").value = 0;
   document.getElementById("progressText").textContent = "";
 }
+
 
 
 
